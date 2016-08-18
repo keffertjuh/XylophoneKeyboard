@@ -3,6 +3,12 @@ A non-flat keyboard to use in VR.
 
 <br />
 <br />
+Assets folder contents can be copied directly into a unity project asset folder and used with the example scene included.
+There is an executable and required data available in a zip file.
+In the 'experience' the keyboard is at about 1m high because it happens to be a good position for me personally, use Unity and adjust the y value for the keyboard if you want it differently.
+
+<br />
+<br />
 #Notes
 
 
