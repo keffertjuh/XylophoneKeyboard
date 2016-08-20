@@ -63,6 +63,7 @@ Ideas for uses:
 - Searching and filtering (i.e. AudioShield song search)
 - Alternative chat mechanism (for people without mic or just due to preference or other necessity; you can only communicate so much with your hands)
 - Quick-selecting smileys to show a particular facial expression, or some other form of self-expression (i.e. the faces in Rec Room)
+- Dealing with typed input in virtual desktop spaces.
 - ~
   
 <br />  
