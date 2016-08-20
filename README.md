@@ -4,7 +4,7 @@ A non-flat keyboard to use in VR.
 <br />
 <br />
 Assets folder contents can be copied directly into a unity project asset folder and used with the example scene included.
-There is an executable and required data available in a zip file.
+There is an executable and required data available in a zip file.  
 In the 'experience' the keyboard is at about 1m high because it happens to be a good position for me personally, use Unity and adjust the y value for the keyboard if you want it differently.
 
 <br />
@@ -15,8 +15,9 @@ In the 'experience' the keyboard is at about 1m high because it happens to be a 
 
 Known issues:
 - A new line takes 2 times a backspace to remove.
-- The spacing between keys and/or the size of the example typing object causes a good amount of accidental mistyping.
+- The unrefined spacing between keys and/or the size of the example typing object causes a good amount of accidental mistyping.
 - Text is somewhat blurry because I didn't pay too much mind to getting that to look nice.
+- There is no delay between 2 hits, thus you might get multiple hits on one stroke (which is quite noisy).
   
 <br />  
 <br />  
